@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'NagamFont';
+  src: url('Nagam.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'NagamFont', sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+  color: #222;
+  line-height: 1.6;
+}
